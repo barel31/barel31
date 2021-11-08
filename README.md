@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barel31
+- 👋 Hi, I’m Barel Shraga
 - 👀 I’m interested in Full-stack Coding, Surfing, Dirt Bikes and Vapes!
 - 🌱 I’m currently learning Python, JavaScript, CSS, C++, SQL and more...
 - 💞️ I’m looking to collaborate on a any opportunity or projects that fun to work with.
